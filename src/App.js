@@ -1,9 +1,9 @@
 import React from "react";
-import {Signin} from "./pages/Signin"
+import { StoriesContainer } from "pages/StoriesContainer";
 
 function App() {
   return (
-    <Signin />
+    <StoriesContainer />
   );
 }
 
