@@ -24,9 +24,9 @@ export const Story = ({ storyID }) => {
               {mapTime(story.time)} ago
             </p>
             <div class="mt-3">
-              <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+              <a href={story.url} class="button bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
                 Article
-              </button>
+              </a>
               <button class="bg-blue-700 ml-3 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
                 {story.descendants} Comments
               </button>
