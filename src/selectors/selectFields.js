@@ -1,7 +1,8 @@
-export const selectFields = ({ id, by, url, time, title } = {}) => ({
+export const selectFields = ({ id, by, url, time, title, descendants } = {}) => ({
   id,
   by,
   url,
   time,
-  title
+  title,
+  descendants
 });
