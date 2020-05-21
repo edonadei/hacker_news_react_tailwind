@@ -1,4 +1,4 @@
-# hacker-news-react-tailwind
+# react-hacker-news
 
 An implementation of hacker news app in react with Tailwind for fancy CSS
 
