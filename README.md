@@ -4,7 +4,7 @@ An implementation of hacker news app in react with Tailwind for fancy CSS
 
 ## **[LIVE DEMO](https://hacker-news-tw.netlify.app/)**
 
-![screenshot](hacker_news_digest.png)
+![screenshot](screenshot.png)
 
 ## Available Scripts
 
